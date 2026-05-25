@@ -1,0 +1,8 @@
+.env
+vectorstore/
+data/docs/
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+dist/

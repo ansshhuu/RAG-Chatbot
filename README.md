@@ -29,7 +29,19 @@
 
 ## Demo Screenshots
 
+### Home Page
 
+<p align="center">
+  <img src="assets/home.png" width="900"/>
+</p>
+
+### Upload and Chat Interface
+
+<p align="center">
+  <img src="assets/chat.png" width="900"/>
+</p>
+
+---
 
 ## Tech Stack
 

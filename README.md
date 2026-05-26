@@ -9,6 +9,11 @@
 ![Tests](https://img.shields.io/badge/Tests-Passing-success)
 
 ---
+---
+
+## Live Demo: https://rag-chatbot-02.streamlit.app
+
+---
 
 ## Features
 

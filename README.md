@@ -53,7 +53,7 @@
 |---|---|
 | Embeddings | sentence-transformers/all-MiniLM-L6-v2 |
 | Vector Database | ChromaDB |
-| LLM | Groq (llama3-8b-8192) |
+| LLM | Groq (llama-3.3-70b-versatile) |
 | Framework | LangChain |
 | Frontend | Streamlit |
 | Containerization | Docker |

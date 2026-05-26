@@ -7,7 +7,7 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', 'src'))
 from rag_brain.pipeline import ingest_pdf, ask_question
 
 st.set_page_config(
-    page_title="RAG Brain",
+    page_title="RAG Chatbot",
     layout="centered"
 )
 
